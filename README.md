@@ -1,2 +1,4 @@
-# games
-Repository to store source code of simple games developed for kids.
+# Games
+
+## Number guessing game
+python number-guessing-game.py
